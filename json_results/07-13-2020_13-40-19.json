@@ -1,0 +1,14 @@
+{
+    "result": {
+        "healthy": 0,
+        "junk": 0,
+        "dessert": 97,
+        "appetizer": 1,
+        "mains": 2,
+        "soups": 0,
+        "carbs": 98,
+        "protein": 1,
+        "fats": 4,
+        "meat": 2
+    }
+}
